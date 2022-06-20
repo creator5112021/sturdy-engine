@@ -1,0 +1,85 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+.result{
+    width: 400;
+    height: 280;
+    border-style: solid;
+    border-radius: 0;
+    border-color: rgb(123, 123, 123);
+    border-width: 5;
+    box-shadow: 0 12px 14px 0 rgba(2, 2, 2, 0.2);
+    background-color: white;
+}
+.result:hover{
+    border-radius: 140px;
+}
+#resultshow1{
+    margin-left: 500;
+}
+#resultshow2{
+    margin-right: 500;
+}
+#resultshow3{
+    margin-left: 500;
+}
+#resultshow4{
+    margin-right: 500;
+}
+#resultshow5{
+    margin-left: 500;
+}
+#resultshow6{
+    margin-right: 500;
+}
+#resultshow7{
+    margin-left: 500;
+}
+#resultshow8{
+    margin-right: 500;
+}
+#resultshow9{
+    margin-left: 500;
+}
+#resultshow10{
+    margin-right: 500;
+}
+#resultshow11{
+    margin-left: 500;
+}
+#resultshow12{
+    margin-right: 500;
+}
+#resultshow13{
+    margin-left: 500;
+}
+#resultshow14{
+    margin-right: 500;
+}
+.copy_right_footer{
+    background-color: rgb(200, 229, 255);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-family: 'Combo', cursive;
+}
+body{
+    background-color: aqua;
+}
